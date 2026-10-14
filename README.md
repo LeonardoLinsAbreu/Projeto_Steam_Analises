@@ -61,7 +61,7 @@ Apresenta o tamanho e a composição da base por meio de:
 - Dez gêneros com mais títulos.
 - Filtro de idioma de áudio.
 
-![Visão Geral do Catálogo Steam](Images/visao_geral_catalogo.png)
+![Visão Geral do Catálogo Steam](Images/1.%20Visao_Geral_Catalogo.png)
 
 ### Explore os Jogos
 
@@ -72,7 +72,7 @@ Permite consultar títulos individuais por meio de:
 - Indicador de títulos encontrados.
 - Botão para limpar filtros e navegação entre as páginas.
 
-![Página Explore os Jogos](Images/explore_os_jogos.png)
+![Página Explore os Jogos](Images/2.%20Explore_os_Jogos.png)
 
 ## Modelagem e Indicadores:
 
